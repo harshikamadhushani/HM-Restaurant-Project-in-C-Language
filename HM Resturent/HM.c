@@ -348,5 +348,5 @@ void Exit()
     printf("\n\n\tTotal is Rs %.2f",Total);
     printf("\n\n\t\t\t Thank You Very Much");
     printf("\n\t\t +=====================================+");
-    printf("\n\t\t\t Please Come Again.");
+    printf("\n\t\t\t Please Come Again.\n\n");
 }
